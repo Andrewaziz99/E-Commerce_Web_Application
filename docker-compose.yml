@@ -1,0 +1,20 @@
+version: '3'
+services:
+  user:
+    image: user
+    ports:
+      - "3001:3001"
+    command: node server.js
+
+  cart:
+    image: cart
+    ports:
+      - "3003:3003"
+    command: node server.js  
+
+  product:
+    image: product
+    ports:
+      - "3002:3002"
+    command: node server.js
+    

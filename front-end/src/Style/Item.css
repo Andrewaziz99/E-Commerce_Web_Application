@@ -1,0 +1,38 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+* {
+    box-sizing: border-box;
+  }
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+h4{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #fff;
+  font-weight: 700;
+  }
+.page-content {
+ margin-top: 10px;
+ background-color: #27292a;
+ padding: 60px;
+  }
+
+  .main-profile .main-info span {
+    font-size: 14px;
+    color: #fff;
+    background-color: #e75e8d;
+    padding: 8px 20px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    margin-bottom: 15px;
+  }
+.price{
+    justify-content: right;
+}

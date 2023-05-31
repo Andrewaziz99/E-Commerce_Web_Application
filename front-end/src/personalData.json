@@ -1,0 +1,49 @@
+{
+    "fortnite":{
+        "name":"Fortnite",
+        "src":"src/assets/game1.jpg",
+        "type":"Video Game",
+        "price":"Free",
+        "version":11.50,
+        "for":"X-Box",
+        "description":"Fortnite is a third-person shooter game where up to 100 players compete to be the last person or team standing. You can compete alone or join a team of up to four. You progress through the game by exploring the island, collecting weapons, building fortifications and engaging in combat with other players."
+    },
+    "call_of_dutty":{
+        "name":"Call Of Dutty",
+        "src":"src/assets/call of duty_mobile.jpg",
+        "type":"Video Game",
+        "price":"24$",
+        "version":9.0,
+        "for":"Mobile",
+        "description":"Mobile’s battle royale mode is another great choice for a game to try. Widely considered the two best survival shooters on mobile (until Fortnite got taken off), Call of Duty and Fortnite are often compared for their graphics, gameplay, and visuals."
+    
+    },
+    "Pubg":{
+        "name":"PUBG",
+        "src":"src/assets/PUBG_Mobile.jpg",
+        "type":"Video Game",
+        "price":"Free",
+        "version":12.6,
+        "for":"Mobile",
+        "description":"PUBG is a lot more serious in aesthetics, mimicking actual life rather than a more cartoony vibe, but the mission is the same, to be the last man (or duo, or team) standing."
+    
+    },
+    "ApexLegends":{
+        "name":"Apex Legends",
+        "src":"src/assets/Apex Legends – Switch.jpg",
+        "type":"Video Game",
+        "price":"31$",
+        "version":5.1,
+        "for":"Switch",
+        "description":"The love of battle royale continues with Apex Legends from the developer, Respawn Entertainment. They’re quite different games, with Apex Legends giving players unique abilities depending on their character choice, no building, it’s FPS, and you can level up the skills on weaponry."
+    },
+    "OverWatch":{
+        "name":"OverWatch",
+        "src":"src/assets/Overwatch2_switch.jpg",
+        "type":"Video Game",
+        "price":"15$",
+        "version":12.50,
+        "for":"Switch",
+        "description":"Every match is 6v6, so we’re talking a lot smaller of a playing field, but we’re not talking about less action. You pick your hero with unique abilities and then play into the strengths of your role. Plus, it’s free-to-play so what have you got to lose?"
+    }
+}

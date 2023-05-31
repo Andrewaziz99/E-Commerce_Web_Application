@@ -1,0 +1,120 @@
+html, body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    background-color: #1e1e1e;
+    font-size: 16px;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  a {
+	color: #CCC;
+  text-decoration: none !important;
+}
+a:hover {
+	color: #F99;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #fff;
+  font-weight: 700;
+}
+
+ul {
+  margin-bottom: 0px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 30px;
+  color: #fff;
+}
+.selct{
+  padding-left: 35px;
+  padding-top: 10px;
+  height: fit-content;
+}
+select{
+  background-color: #1e1e1e;
+  width: 200px;
+  text-align: center;
+  height: 40px;
+  color: #CCC;
+  border: 0;
+}
+option{
+  color: #fff;
+}
+img {
+  width: 100%;
+  overflow: hidden;
+}
+
+.most-popular {
+    margin-top: 60px;
+    padding: 30px;
+    background-color: #1f2122;
+    border-radius: 23px;
+  }
+  
+  .most-popular .item {
+    background-color: #27292a;
+    padding: 30px 15px;
+    border-radius: 23px;
+    margin-bottom: 30px;
+  }
+  
+  .most-popular .item .item {
+    padding: 0px;
+    border-radius: 0px;
+    background-color: transparent;
+    margin-bottom: 0px;
+  }
+  
+  .most-popular .item img {
+    border-radius: 23px;
+  }
+  
+  .most-popular .item h4 {
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    display: inline-block;
+  }
+  
+  .most-popular .item span {
+    color: #666;
+    display: block;
+    margin-top: 7px;
+    font-weight: 400;
+  }
+  
+  .most-popular .item ul {
+    float: right;
+    margin-top: 20px;
+  }
+  
+  .most-popular .item ul li {
+    text-align: right;
+    color: #fff;
+    font-size: 14px;
+  }
+  
+  .most-popular .item ul li:first-child i {
+    color: yellow;
+  }
+  
+  .most-popular .item ul li:last-child i {
+    color: #ec6090;
+  }
+  
+  .most-popular .main-button {
+    text-align: center;
+    margin-bottom: -53px;
+  }
+.wid{
+    width: 100%;
+    background: #27292a;
+}

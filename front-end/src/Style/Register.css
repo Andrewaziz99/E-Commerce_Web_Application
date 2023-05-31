@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Poppins:400,500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+.bg-img {
+  background: url('src/assets/background1.jpg');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.bg-img2 {
+  background: url('src/assets/background2.jpg');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.bg-img:after {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.row h6 {
+  color: white;
+  margin-top: 15px;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  display: flex;
+}
+
+.sptop {
+  padding-top: 300px;
+}
+
+.registerContent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 999;
+  text-align: center;
+  padding: 30px 32px;
+  width: 500px;
+  transform: translate(-50%, -50%);
+  background: rgba(255, 255, 255, 0.04);
+  box-shadow: -1px 4px 28px 0px rgba(0, 0, 0, 0.75);
+}
+
+.field {
+  position: relative;
+  border-radius: 15px;
+  height: 45px;
+  width: 100%;
+  display: flex;
+  background: rgba(255, 255, 255, 0.94);
+}
+
+.field span {
+  color: #222;
+  width: 50px;
+  margin-top: 5px;
+  line-height: 45px;
+}
+
+.field input {
+  height: 100%;
+  width: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #222;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.space {
+  margin-top: 16px;
+}
+
+.registerContent header {
+  color: white;
+  font-size: 33px;
+  font-weight: 600;
+  margin: 0 0 35px 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.field input[type="submit"] {
+  background: -webkit-linear-gradient(left, #a445b2, #fa4299);
+  border: 0px;
+  color: white;
+  font-size: 18px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.field input[type="submit"]:hover {
+  background: -webkit-linear-gradient(right, #a445b2, #fa4299);
+}
+
+.signup {
+  font-size: 15px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.signup a {
+  color: #a445b2;
+  margin-left: 5px;
+  text-decoration: none;
+}
+
+.signup a:hover {
+  color: #fa4299;
+  text-decoration: underline;
+}
+
+.inline {
+  color: white;
+  position: relative;
+  display: flex;
+  padding-top: 10px;
+  cursor: pointer;
+  font-weight: 500;
+  overflow: hidden;
+}

@@ -1,0 +1,157 @@
+/* Body Styles */
+body {
+  font-family: Arial, sans-serif;
+  font-weight: Bold;
+  margin: 0;
+  padding: 0;
+}
+
+/* Background Styles */
+.backgrounds {
+  background-image: url("../assets/photo6.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.spacefo2 {
+  padding-top: 100px;
+}
+
+/* Cart Page Styles */
+.cart-page {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: transparent;
+  backdrop-filter: blur(50px);
+  overflow: auto;
+  color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+/* Cart Page Header Styles */
+.cart-page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.cart-header-text {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+}
+
+/* Cart Page Table Styles */
+.cart-page-table {
+  overflow-x: auto;
+}
+
+.cart-table-product {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.cart-table-header th {
+  padding: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+  color: #fff;
+}
+
+.cart-table-img {
+  width: 100px;
+}
+
+.cart-table-payment,
+.cart-table-size {
+  width: 20%;
+  padding: 10px;
+  font-size: 16px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  color: #fff;
+}
+
+.cart-table-content td {
+  padding: 10px;
+  font-size: 16px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.cart-table-image-info img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.bold-text {
+  font-weight: bold;
+  color: #fff;
+}
+
+.right-text-mobile {
+  text-align: right;
+  color: #fff;
+}
+
+/* Cart Table Bill Styles */
+.cart-table-bill {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.bill-sub,
+.bill-total {
+  align-items: end;
+  font-size: 18px;
+  color: #fff;
+}
+
+.bill-total {
+  align-items: end;
+  color: #e3437b;
+}
+
+/* Cart Header Footer Styles */
+.cart-header-footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.cart-header-cta {
+  padding: 10px 20px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: #e3437b;
+  border: none;
+  cursor: pointer;
+}
+
+/* Cart Table Animation Styles */
+.cart-table-content:hover {
+  background-color: #2d2f32;
+}
+
+.cart-table-image-info img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.cart-table-image-info img:hover {
+  transform: scale(1.1);
+}
