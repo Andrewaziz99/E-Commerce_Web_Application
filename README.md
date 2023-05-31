@@ -60,7 +60,7 @@ http://localhost:5173/
 ```
 
 ## Technologies
-- [React](https://reactjs.org/)
+- [React vite](https://vitejs.dev/)
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
