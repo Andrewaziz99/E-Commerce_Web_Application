@@ -1,0 +1,235 @@
+[{
+  "_id": {
+    "$oid": "6473d2aeff68755df2527e60"
+  },
+  "name": "Grand Theft Auto V",
+  "price": 29.99,
+  "description": "When a young street hustler, a retired bank robber and a terrifying psychopath land themselves in trouble, they must pull off a series of dangerous heists to survive in a city in which they can trust nobody, least of all each other.",
+  "category": "Action",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png"
+},{
+  "_id": {
+    "$oid": "6473e569ff68755df2527e62"
+  },
+  "name": "Rocket League®",
+  "price": 0,
+  "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+  "category": "Adventure",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg"
+},{
+  "_id": {
+    "$oid": "6473e585ff68755df2527e63"
+  },
+  "name": "Dead by Daylight",
+  "price": 8.99,
+  "description": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught and killed.",
+  "category": "Survival",
+  "image": "https://cdn.shopify.com/s/files/1/0444/8636/1241/products/031IHhxEk8txw0w3IKfGXFiW_png.jpg?v=1630904398"
+},{
+  "_id": {
+    "$oid": "6473e5a7ff68755df2527e64"
+  },
+  "name": "Control",
+  "price": 34.99,
+  "description": "After a secretive agency in New York is invaded by an otherworldly threat, you become the new Director struggling to regain Control",
+  "category": "Adventure",
+  "image": "https://upload.wikimedia.org/wikipedia/ru/1/16/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%B8%D0%B3%D1%80%D1%8B_Control.jpg"
+},{
+  "_id": {
+    "$oid": "6473e65bff68755df2527e65"
+  },
+  "name": "Destiny 2",
+  "price": 0,
+  "description": "Destiny 2 is an action MMO with a single evolving world that you and your friends can join anytime, anywhere, absolutely free.",
+  "category": "Shooter",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Destiny_2_%28artwork%29.jpg?20171024034808https://upload.wikimedia.org/wikipedia/en/0/05/Destiny_2_%28artwork%29.jpg?20171024034808"
+},{
+  "_id": {
+    "$oid": "6473e662ff68755df2527e66"
+  },
+  "name": "Metro: Last Light Redux",
+  "price": 8.99,
+  "description": "In a post-apocalyptic Moscow, Artyom holds the key to mankind's survival amidst deadly mutants and civil war. With hand-made weapons and gas masks, face the threat of deadly mutants, human foes, and the terrifying environment in this definitive version of the critically acclaimed classic. Featuring stunning next-gen visuals, all previous DLC, new modes, and the legendary Ranger Mode, this game invites you to experience the ultimate immersive experience.",
+  "category": "Action",
+  "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Metrolastlight.jpg"
+},{
+  "_id": {
+    "$oid": "6473e66dff68755df2527e67"
+  },
+  "name": "PC Building Simulator",
+  "price": 8.99,
+  "description": "Build and grow your very own computer repair enterprise as you learn to diagnose, fix and build PCs. With real-world licensed components and comprehensive hardware and software simulation, you can plan and bring your ultimate PC to life.",
+  "category": "Simulation",
+  "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/PC_Building_Simulator_Cover.png"
+},{
+  "_id": {
+    "$oid": "6473e6a1ff68755df2527e68"
+  },
+  "name": "Genshin Impact",
+  "price": 0,
+  "description": "Embark on a journey across Teyvat to find your lost sibling and seek answers from The Seven — the gods of each element. Explore this wondrous world, join forces with a diverse range of characters, and unravel the countless mysteries that Teyvat holds...",
+  "category": "Casual",
+  "image": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc"
+},{
+  "_id": {
+    "$oid": "6474b123956ae27b049d64d0"
+  },
+  "name": "Cyberpunk 2077",
+  "price": 59.99,
+  "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+  "category": "Open World",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg"
+},{
+  "_id": {
+    "$oid": "6474b15c956ae27b049d64d1"
+  },
+  "name": "Far Cry® 6",
+  "price": 59.99,
+  "description": "Enter the adrenaline-filled world of a modern-day guerrilla revolution. With stunning vistas, visceral gunplay, and a huge variety of gameplay experiences, there's never been a better time to join the fight. Play the Far Cry® 6 FREE TRIAL and discover why GAME INFORMER calls it -A nonstop thrill ride from start to finish.- And, when you buy the full game, all of your progression will be saved.",
+  "category": "Open World",
+  "image": "https://upload.wikimedia.org/wikipedia/en/3/35/Far_cry_6_cover.jpg"
+},{
+  "_id": {
+    "$oid": "6474b1a4956ae27b049d64d2"
+  },
+  "name": "Saints Row",
+  "price": 59.99,
+  "description": "Welcome to Santo Ileso, a vibrant fictional city in the American Southwest. In a world rife with crime, a group of young friends embark on their own criminal venture, as they rise to the top in their bid to become Self Made.",
+  "category": "Open World",
+  "image": "https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24"
+},{
+  "_id": {
+    "$oid": "6474b1b3956ae27b049d64d3"
+  },
+  "name": "Red Dead Redemption 2",
+  "price": 59.99,
+  "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, Red Dead Redemption 2 is an epic tale of honor and loyalty at the dawn of the modern age. Includes Red Dead Redemption 2: Story Mode and Red Dead Online.",
+  "category": "Open World",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg"
+},{
+  "_id": {
+    "$oid": "6474b217956ae27b049d64d4"
+  },
+  "name": "FIFA 23",
+  "price": 69.99,
+  "description": "FIFA 23 brings The World’s Game to the pitch, with HyperMotion2 Technology, men’s and women’s FIFA World Cup™ coming during the season, women’s club teams, cross-play features*, and more.",
+  "category": "Simulation",
+  "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1622/XCzzcOl1IRgWQsrB9MFO7cg3.png"
+},{
+  "_id": {
+    "$oid": "6474b22b956ae27b049d64d5"
+  },
+  "name": "Dead Island 2",
+  "price": 44.99,
+  "description": "A deadly virus is spreading across Los Angeles, turning inhabitants into zombies. Bitten, infected, but more than just immune, uncover the truth behind the outbreak and discover who -or what- you are.",
+  "category": "Action",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/08/Dead_Island_2_cover_art.jpg"
+},{
+  "_id": {
+    "$oid": "6474b2c6956ae27b049d64d6"
+  },
+  "name": "F1® 23 Standard Edition",
+  "price": 69.99,
+  "description": "Pre-purchase* F1® 23 Standard Edition and receive the F1® World Starter Pack and 5,000 PitCoin virtual currency to spend in-game.",
+  "category": "Simulation",
+  "image": "https://cdn1.epicgames.com/offer/b7773a08a6fa41e3a0fbc4c1e51c95a4/EGS_F123StandardEdition_Codemasters_S2_1200x1600-9ee0158a6d9f052deb753af836f9bd8d"
+},{
+  "_id": {
+    "$oid": "6474b2e8956ae27b049d64d7"
+  },
+  "name": "The Outlast Trials",
+  "price": 13.99,
+  "description": "Red Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?",
+  "category": "Survival",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/81/The_Outlast_Trials_cover.jpg"
+},{
+  "_id": {
+    "$oid": "6474b311956ae27b049d64d8"
+  },
+  "name": "Assassin's Creed® Mirage",
+  "price": 49.99,
+  "description": "Experience the story of Basim, a cunning street thief with nightmarish visions, seeking answers and justice as he navigates the bustling streets of ninth-century Baghdad. Through a mysterious, ancient organization known as the Hidden Ones, he will become a deadly Master Assassin and change his fate in ways he never could have imagined.",
+  "category": "Adventure",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Assassin%27s_Creed_Mirage_cover.jpeg"
+},{
+  "_id": {
+    "$oid": "6474b330956ae27b049d64d9"
+  },
+  "name": "Alan Wake 2",
+  "price": 45.49,
+  "description": "Saga Anderson arrives to investigate ritualistic murders in a small town. Alan Wake pens a dark story to shape the reality around him. These two heroes are somehow connected. Can they become the heroes they need to be?",
+  "category": "Horror",
+  "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Alan_Wake_2_box_art.jpg"
+},{
+  "_id": {
+    "$oid": "6474b349956ae27b049d64da"
+  },
+  "name": "The Empress Of Mahjong",
+  "price": 2.29,
+  "description": "The Empress invites you to play! Immerse yourself in the amazingly beautiful locations of Asia and complete mahjong levels approved by the Empress herself!",
+  "category": "Casual",
+  "image": "https://cdn1.epicgames.com/spt-assets/265e5a407c2d4dab9f95c64a4ec86a97/the-empress-of-mahjong-u7js4.jpg"
+},{
+  "_id": {
+    "$oid": "6474b363956ae27b049d64db"
+  },
+  "name": "Doors: Paradox",
+  "price": 6.99,
+  "description": "A relaxing puzzle escape game! Make your way through a variety of hand-crafted 3D dioramas, look for useful objects, find hidden clues and solve fun puzzles! Unravel this mysterious adventure about chaos, order and the surreal.",
+  "category": "Casual",
+  "image": "https://itorrents-igruha.org/uploads/posts/2022-11/1667656472_library_600x900_2x-8.jpg"
+},{
+  "_id": {
+    "$oid": "6474b487956ae27b049d64dc"
+  },
+  "name": "Phasmophobia",
+  "price": 13.99,
+  "description": "Phasmophobia is a 4-player, online co-op, psychological horror game. You and your team of paranormal investigators will enter haunted locations filled with paranormal activity and try to gather as much evidence as you can. Use your ghost-hunting equipment to find and record evidence to sell on to a ghost removal team.",
+  "category": "Horror",
+  "image": "https://gaming-cdn.com/images/products/7677/orig-fallback-v1/phasmophobia-pc-spiel-steam-cover.jpg?v=1646853563"
+},{
+  "_id": {
+    "$oid": "6474b56a956ae27b049d64de"
+  },
+  "name": "Ready or Not",
+  "price": 39.9,
+  "description": "Ready or Not is an intense, tactical, first-person shooter that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations.",
+  "category": "Shooter",
+  "image": "https://static-cdn.jtvnw.net/ttv-boxart/511701_IGDB-272x380.jpg"
+},{
+  "_id": {
+    "$oid": "6474b625956ae27b049d64df"
+  },
+  "name": "ELDEN RING",
+  "price": 59.99,
+  "description": "Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+  "category": "Open World",
+  "image": "https://cdn.europosters.eu/image/750/posters/elden-ring-the-tarnished-one-i129583.jpg"
+},{
+  "_id": {
+    "$oid": "6474b6ec956ae27b049d64e0"
+  },
+  "name": "Resident Evil 4",
+  "price": 59.99,
+  "description": "Six years have passed since the biological disaster in Raccoon City.\nAgent Leon S. Kennedy, one of the survivors of the incident, has been sent to rescue the president's kidnapped daughter.\nHe tracks her to a secluded European village, where there is something terribly wrong with the locals.\nAnd the curtain rises on this story of daring rescue and grueling horror where life and death, terror and catharsis intersectl.",
+  "category": "Horror",
+  "image": "https://images.g2a.com/1024x768/1x1x0/resident-evil-4-steam-key-global-i10000007728005/5910da8f5bafe3607751bdd2"
+},{
+  "_id": {
+    "$oid": "6474b7df956ae27b049d64e1"
+  },
+  "name": "DayZ",
+  "price": 44.99,
+  "description": "There are no map markers, daily quests, or scoreboards to help you create your story. There is only Chernarus – 230 square kilometers of post-Soviet country that was struck by an unknown virus, which turned the majority of its population into raging infected.",
+  "category": "Survival",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/a8/Day_Z_cover.jpg"
+},{
+  "_id": {
+    "$oid": "6474b886956ae27b049d64e2"
+  },
+  "name": "Left 4 Dead 2",
+  "price": 9.99,
+  "description": "Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008.\nThis co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
+  "category": "Horror",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Left4Dead2.jpg"
+}]
