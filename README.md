@@ -73,3 +73,6 @@ http://localhost:5173/
 - [Ramez Hesham](https://github.com/RamezHesham)
 - [Yara Wael](https://github.com/yara880)
 - [Nourhane Amir](https://github.com/NourhaneAmir)
+
+## Products json file
+- [Products json file](https://github.com/Andrewaziz99/E-Commerce_Web_Application/blob/main/products.json)
